@@ -4,37 +4,36 @@
 http://distv.
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://distv.net/icons/babytv.png" group-title="KIDS",BABY TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/117
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="KIDS",BOOMERANG
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/121
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/124
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://distv.net/icons/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/133
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/138
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KIDS",DISNEY JR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/139
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="KIDS",DISNEY XD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/140
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://distv.net/icons/gloob.png" group-title="KIDS",GLOOB
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/154
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="http://distv.net/icons/gloobinho.png" group-title="KIDS",GLOOBINHO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/215
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="http://distv.net/icons/natgeokids.png" group-title="KIDS",NAT GEO KIDS
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/173
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="http://distv.net/icons/nick.png" group-title="KIDS",NICK
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/175
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://distv.net/icons/nickjr.png" group-title="KIDS",NICK JR
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/176
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://distv.net/icons/tooncast.png" group-title="KIDS",TOONCAST
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/203
-#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="http://distv.net/icons/tvratimbum.png" group-title="KIDS",TV RA TIM BUM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/204
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://rec2.distv.net:80/jaja/jaja/244
-
+#EXTINF:-1 tvg-id="" tvg-name="BR: Baby TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6d547caaa4b83ed3088387753a2e8b35.png" group-title="Brazil",BR: Baby TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8922
+#EXTINF:-1 tvg-id="" tvg-name="BR BABY TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR BABY TV HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274327
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cartoon Network FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/072885790a3958b2fbf1e2ad147e4d16.png" group-title="Brazil",BR: Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8913
+#EXTINF:-1 tvg-id="" tvg-name="BR Cartoon Network FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273292
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/6ef28a86d6d91e1ebe8ebfaa2c2723c7.png" group-title="Brazil",BR: Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8893
+#EXTINF:-1 tvg-id="" tvg-name="BR Discovery Kids FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/273726
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Junior FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/1ee3dbf19ac4cdf59a75ea3cf6310d90.png" group-title="Brazil",BR: Disney Junior FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8916
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney JR HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Disney JR HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274548
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney XD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/def76639e5be8fb9e81013303abd42ab.png" group-title="Brazil",BR: Disney XD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8917
+#EXTINF:-1 tvg-id="" tvg-name="BR Disney XD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Kids",BR Disney XD FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274549
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloob HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/34a173f24d6a5f0b68e1526ca063537f.png" group-title="Brazil",BR: Gloob HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/14605
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tooncast HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/196dfc072cf13734a863154709d33390.png" group-title="Brazil",BR: Tooncast HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8927
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Ra Tim Bum HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/c1d04a3208a6ce40e8717ff95febbe43.png" group-title="Brazil",BR: TV Ra Tim Bum HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/148405
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO Kids FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/ac4be9cbe3d27492dde3ab5bc37100b2.png" group-title="Brazil",BR: NAT GEO Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/8914
+#EXTINF:-1 tvg-id="" tvg-name="BR NAT GEO Kids FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Documentary",BR NAT GEO Kids FHD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://iptvtree.net:8080/geniptv/4faed690fd/274114
 #EXTINF:-1 tvg-id="RAMALHOTV VIP" tvg-logo="https://www.wdkx.com/wp-content/uploads/2020/07/image.png" group-title="Infantil", Infantil
 http://212.224.9 
 

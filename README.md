@@ -2,10 +2,15 @@
 #EXTM3U
 #EXTINF:-1, [B][COLOR  yellow] RAMALHOTV[/B][/COLOR]  [B][COLOR lime] -CANAIS  KIDS[/B][/COLOR]
 http://distv.
-
-
-
-
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://i.imgur.com/pb5thME.png" group-title="CANAIS | INFANTIS",Tooncast HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143332
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://i.imgur.com/pb5thME.png" group-title="CANAIS | INFANTIS",Tooncast SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143333
+#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="https://i.imgur.com/6OMqdds.png" group-title="CANAIS | INFANTIS",Retrô Cartoon
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143331#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="RATIMBUM HD" tvg-logo="https://i.imgur.com/qZrLHPm.png" group-title="CANAIS | INFANTIS",RATIMBUM HD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143330
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="RATIMBUM SD" tvg-logo="https://i.imgur.com/qZrLHPm.png" group-title="CANAIS | INFANTIS",RATIMBUM SD
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143329
 #EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV HD" tvg-logo="https://i.imgur.com/VBSESVw.png" group-title="CANAIS | INFANTIS",BabyTV HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=SIMPLE&amp;url=http://srv2021.ga:80/tonny12/tonny12/143305
 #EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV SD" tvg-logo="https://i.imgur.com/VBSESVw.png" group-title="CANAIS | INFANTIS",BabyTV SD
